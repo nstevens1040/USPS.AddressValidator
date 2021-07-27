@@ -56,5 +56,4 @@ $a.Results.ValidatedAddress
 $a.Results.XmlResponseString
 $a.Results.ResponseXml
 $a.Results.ValidAddressObject
-$a.Results.ValidAddressObject
 ```  
