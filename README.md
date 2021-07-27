@@ -5,7 +5,7 @@
    - The USERID needs to be stored on your computer as an environment variable with the name **USPS_USERID**
 ## Build  
    - Clone and build in Visual Studio, or  
-   - Use the **Developer Command Prompt for VS 2019** (Requires **Git** [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))  
+   - Use the **Developer Command Prompt for VS 2019** (Requires **[Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**)  
 ```bat
 git clone https://github.com/nstevens1040/USPS.AddressValidator.git
 cd USPS.AddressValidator
